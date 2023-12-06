@@ -5,9 +5,9 @@ https://shiply-frontend.onrender.com
 ## Backend
 https://shiply-server.onrender.com
 ## Driver app
-https://shiply-driver.onrender.com
+https://shiply-driver.vercel.app/
 ## Touchscreen
-https://shiply-touchscreen.onrender.com
+https://shiply-touchscreen.vercel.app/
 
 
 
