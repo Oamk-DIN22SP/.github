@@ -1,13 +1,13 @@
 # 📜 Our websites
 
 ## Driver app
-[https://shiply-driver.onrender.com](https://shiply-driver.vercel.app/)
+https://shiply-driver.vercel.app/
 ## Client app (old)
 https://shiply-frontend.onrender.com
 ## Backend server
 https://shiply-server.onrender.com
 ## Touchscreen app
-[https://shiply-touchscreen.onrender.com](https://shiply-touchscreen.vercel.app/)
+https://shiply-touchscreen.vercel.app/
 
 ## 🎨 UI/UX
 
