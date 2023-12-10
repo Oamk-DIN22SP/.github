@@ -15,7 +15,7 @@ https://github.com/Oamk-DIN22SP/shiply-robot
 
 How we are designing our application in Figma:
 
-- [Figma Link](https://www.figma.com/proto/xz63yMWRJ0Xqt07eThEDxC/Untitled?page-id=0%3A1&type=design&node-id=1-2&viewport=515%2C90%2C0.1&t=xf3bQCdmQI7nwDhK-1&scaling=scale-down&starting-point-node-id=1%3A2&mode=design)
+- [Figma Link](https://www.figma.com/proto/jijAvzmo9h8uR9TxKqVhCe/Shiply-Main-Design?page-id=0%3A1&type=design&node-id=15-4&viewport=190%2C269%2C0.18&t=m6xIjP6RzdvN0QW6-1&scaling=scale-down&starting-point-node-id=15%3A4&mode=design)
 
 ## :computer: Frontend
 
