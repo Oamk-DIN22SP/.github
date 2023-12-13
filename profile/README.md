@@ -1,7 +1,7 @@
 # 📜 Our websites
 
 ## Client app
-https://shiply-frontend.onrender.com
+https://shiply-consumer-v2.vercel.app/login
 ## Touchscreen app
 https://shiply-touchscreen.vercel.app/
 ## Driver app
